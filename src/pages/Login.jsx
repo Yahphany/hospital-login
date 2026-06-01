@@ -40,10 +40,7 @@ export default function Login() {
             <h2 className="text-3xl font-bold text-blue-800 mb-2">We Care</h2>
             <p className="text-blue-600 text-lg italic mb-8">Welcome to our System</p>
             <div className="text-sm text-slate-600 space-y-1">
-              <p className="font-semibold">Developed by:</p>
-              <p>Prof. Mohammed Abo-zahhad</p>
-              <p>Prof. Sabah Mohamed Ahmed</p>
-              <p>Eng. Osama Elnahas Helaly</p>
+              <p className="font-semibold">Developed by: group 8</p>
             </div>
           </div>
 
@@ -71,8 +68,7 @@ export default function Login() {
       </main>
 
       <footer className="bg-slate-200 text-center text-xs text-slate-600 py-3">
-        Developed in EE Department, Faculty of Engineering, Assiut University
-      </footer>
+        Developed in Computer Science Department, Faculty of Science, Rivers state University. </footer>
     </div>
   );
 }

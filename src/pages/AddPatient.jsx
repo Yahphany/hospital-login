@@ -89,7 +89,7 @@ export default function AddPatient() {
       </main>
 
       <footer className="bg-slate-200 text-center text-xs text-slate-600 py-3">
-        Developed in EE Department, Faculty of Engineering, Assiut University, June 2013
+        Developed in Computer Science Department, Faculty of Science, Rivers state University.
       </footer>
     </div>
   );

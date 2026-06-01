@@ -63,7 +63,7 @@ export default function Monitoring() {
       </main>
 
       <footer className="bg-slate-800 text-center text-[10px] text-slate-500 py-2 border-t border-slate-700">
-        Developed in EE Department, Faculty of Engineering, Assiut University
+        Developed in Computer Science Department, Faculty of Science, Rivers state University.
       </footer>
     </div>
   );
