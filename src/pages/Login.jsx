@@ -25,7 +25,7 @@ export default function Login() {
             <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center text-blue-700 font-bold text-lg">W</div>
             <div>
               <h1 className="text-xl font-bold tracking-wide">Wireless Emergency Telemedicine System</h1>
-              <p className="text-xs opacity-90">Faculty of Engineering, Assiut University</p>
+              <p className="text-xs opacity-90">Faculty of Science, Rivers State University</p>
             </div>
           </div>
         </div>
